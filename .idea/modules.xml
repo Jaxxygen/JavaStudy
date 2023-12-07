@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaStudy.iml" filepath="$PROJECT_DIR$/JavaStudy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pet-Projects/MarketParser/MarketParser.iml" filepath="$PROJECT_DIR$/Pet-Projects/MarketParser/MarketParser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pet-Projects/Sudoku/Sudoku.iml" filepath="$PROJECT_DIR$/Pet-Projects/Sudoku/Sudoku.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-inheritance-basics/java-inheritance-basics.iml" filepath="$PROJECT_DIR$/java-inheritance-basics/java-inheritance-basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_CollectionsMap/java_CollectionsMap.iml" filepath="$PROJECT_DIR$/java_CollectionsMap/java_CollectionsMap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_CollectionsSearch/java_CollectionsSearch.iml" filepath="$PROJECT_DIR$/java_CollectionsSearch/java_CollectionsSearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_basics/java_basics.iml" filepath="$PROJECT_DIR$/java_basics/java_basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_collectionsarray/java_collectionsarray.iml" filepath="$PROJECT_DIR$/java_collectionsarray/java_collectionsarray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_collectionslist/java_collectionslist.iml" filepath="$PROJECT_DIR$/java_collectionslist/java_collectionslist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_numbersanddates/java_numbersanddates.iml" filepath="$PROJECT_DIR$/java_numbersanddates/java_numbersanddates.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_strings/java_strings.iml" filepath="$PROJECT_DIR$/java_strings/java_strings.iml" />
+    </modules>
+  </component>
+</project>
