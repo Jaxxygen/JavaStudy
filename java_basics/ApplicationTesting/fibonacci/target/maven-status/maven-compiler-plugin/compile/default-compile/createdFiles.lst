@@ -1,0 +1,6 @@
+com\skillbox\fibonacci\FibonacciApplication.class
+com\skillbox\fibonacci\FibonacciRepository.class
+com\skillbox\fibonacci\FibonacciController.class
+com\skillbox\fibonacci\FibonacciCalculator.class
+com\skillbox\fibonacci\FibonacciService.class
+com\skillbox\fibonacci\FibonacciNumber.class
