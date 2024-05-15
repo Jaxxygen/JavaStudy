@@ -1,10 +1,4 @@
 
-o
-?java-inheritance-basics/src/main/java/practice/BankAccount.java,3\0\304528cab8f2bb4b5a7dbd32120f11ce2320c902
-o
-?java-inheritance-basics/src/main/java/practice/CardAccount.java,1\2\120a2c270650b011c7472a2422e9d12fae35f505
-r
-Bjava-inheritance-basics/src/main/java/practice/DepositAccount.java,b\7\b757b7a41a48c5c24a0ff6a7e0fef42862ee1643
 ]
 -java_basics/ApplicationTesting/fibonacci/mvnw,a\5\a51bc67bf15730d10fc732c65d59fcfaf8b55fe7
 a
@@ -355,16 +349,10 @@ Y
 )java_basics/NoSQL/SiteEmulator/.gitignore,4\4\442290c4febf486550998fb2d56afcd4754566ab
 q
 Ajava_basics/NoSQL/SiteEmulator/src/main/java/org/example/App.java,0\e\0ec711749b43b8399bfc107e33aa25dd7489d55b
-Å
-Q.idea/sonarlint/securityhotspotstore/3/0/304528cab8f2bb4b5a7dbd32120f11ce2320c902,b\a\baab3ac7a85659e65d40a7ca07ca850636ba781c
-Å
-Q.idea/sonarlint/securityhotspotstore/b/7/b757b7a41a48c5c24a0ff6a7e0fef42862ee1643,3\f\3f977bdf44b02e6fa8c10ef5b274e4870bc1b92e
 m
 =java_basics/NoSQL/SiteEmulator/src/main/java/SiteStorage.java,4\b\4b9995070e3947300df2b425fb50e698722db16f
 f
 6java_basics/NoSQL/SiteEmulator/src/main/java/Main.java,8\4\84ab941b5fa143a17f5d78e302ae9bac17792b9d
-Å
-Q.idea/sonarlint/securityhotspotstore/1/2/120a2c270650b011c7472a2422e9d12fae35f505,1\f\1f30c82f428bd4f81132c3f6fa7104c129b267ac
 \
 ,java_basics/StreamAPI/Airport/checkstyle.xml,f\9\f99b913d6f5b505f22bc869ba0305159614611d6
 u
