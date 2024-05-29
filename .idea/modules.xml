@@ -3,8 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JavaStudy.iml" filepath="$PROJECT_DIR$/JavaStudy.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Pet-Projects/MarketParser/MarketParser.iml" filepath="$PROJECT_DIR$/Pet-Projects/MarketParser/MarketParser.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Pet-Projects/Sudoku/Sudoku.iml" filepath="$PROJECT_DIR$/Pet-Projects/Sudoku/Sudoku.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pet_projects/MarketParser/MarketParser.iml" filepath="$PROJECT_DIR$/pet_projects/MarketParser/MarketParser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pet_projects/Sudoku/Sudoku.iml" filepath="$PROJECT_DIR$/pet_projects/Sudoku/Sudoku.iml" />
       <module fileurl="file://$PROJECT_DIR$/java_basics/InheritanceBasics/java-inheritance-basics.iml" filepath="$PROJECT_DIR$/java_basics/InheritanceBasics/java-inheritance-basics.iml" />
       <module fileurl="file://$PROJECT_DIR$/java_basics/CollectionsMap/java_CollectionsMap.iml" filepath="$PROJECT_DIR$/java_basics/CollectionsMap/java_CollectionsMap.iml" />
       <module fileurl="file://$PROJECT_DIR$/java_basics/CollectionsSearch/java_CollectionsSearch.iml" filepath="$PROJECT_DIR$/java_basics/CollectionsSearch/java_CollectionsSearch.iml" />
